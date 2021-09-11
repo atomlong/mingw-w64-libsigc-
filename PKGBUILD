@@ -5,7 +5,6 @@ pkgname=mingw-w64-libsigc++
 _pkgname=libsigc++
 pkgver=2.10.3
 pkgrel=1
-epoch=1
 pkgdesc="Libsigc++ implements a full callback system for use in widget libraries - V2 (mingw-w64)"
 arch=('any')
 url="https://libsigcplusplus.github.io/libsigcplusplus/"
